@@ -1,0 +1,18 @@
+p{
+    padding: 30px 10px 30px 10px;
+    background-color:rgb(158, 165, 168);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    max-width: 100px;
+    display: inline;
+    line-height: 2em;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+p:hover {
+    background-color: teal;
+}
